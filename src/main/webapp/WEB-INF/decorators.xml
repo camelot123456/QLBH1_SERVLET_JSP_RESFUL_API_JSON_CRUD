@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<decorators defaultdir="/views/">
+
+	<decorator name="display-account" page="account/layouts/main.jsp">
+        <pattern>/account*</pattern>
+    </decorator>
+    
+    <decorator name="display-product" page="product/layouts/main.jsp">
+        <pattern>/product*</pattern>
+    </decorator>
+    
+    <excludes>
+    	<pattern>/api*</pattern>
+    </excludes>
+</decorators>

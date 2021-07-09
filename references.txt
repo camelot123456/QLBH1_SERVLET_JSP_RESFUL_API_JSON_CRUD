@@ -1,0 +1,6 @@
+https://www.baeldung.com/maven-compiler-plugin
+http://wiki.sitemesh.org/wiki/display/sitemesh/Setup+SiteMesh+in+5+Minutes+or+Less
+https://www.logicbig.com/tutorials/java-ee-tutorial/java-servlet/session-tracking-mode.html
+https://zetcode.com/articles/javaservletweld/
+https://viettuts.vn/java-jdbc/ket-noi-java-voi-sqlserver
+https://stackjava.com/java/code-vi-du-da-ngon-ngu-voi-java-resourcebundle-internationalization.html
